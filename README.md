@@ -10,4 +10,8 @@ In my case I use this device to connect a HomeWizard P1 meter, an Alfen EV Charg
 
 License
 -------
+<<<<<<< HEAD
 All of the code in this project is licensed under the GNU General Public License v3.0 (GNU GPLv3) license.
+=======
+All of the code in this project is licensed under the GNU General Public License v3.0 (GNU GPLv3) license.
+>>>>>>> 03a28eef38ff7d87aa46cfb4bb92126ffc800ead
