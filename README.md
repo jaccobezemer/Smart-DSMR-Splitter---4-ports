@@ -4,6 +4,18 @@ Device that splits the P1 port into three individually functioning P1 ports (P2,
 It will let three devices communicate with the DSMR P1 port at different intervals.
 In my case I use this device to connect a HomeWizard P1 meter, an Alfen EV Charger load balancer and a Sessy Meter for a Sessy Battery.
 
+## Schematics
+![Schema](/media/Schematic_Active-P1-DSMR-Switch_2025-04-20.png?raw=true "Schema")
+
+![EasyEda Schematic](/hardware/schematics/SCH_Active-P1-DSMR-Switch_2025-04-20.json?raw=true "EasyEda Schematic")
+
+![EasyEda PCB](/hardware/pcb/PCB_PCB_Smart-DSMR-Splitter_2025-04-20.json?raw=true "EasyEda PCB")
+
+## Several PCB images
+![PCB top](/media/PCB_top_view.png?raw=true "PCB top")
+
+![PCB bottom](/media/PCB_bottom_view.png?raw=true "PCB bottom")
+
 ## Libraries Used
 
 + [Arduino Dutch Smart meter (DSMR) parser](https://github.com/matthijskooijman/arduino-dsmr) (slightly modified)
