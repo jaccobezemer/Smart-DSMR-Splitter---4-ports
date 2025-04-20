@@ -7,11 +7,11 @@ In my case I use this device to connect a HomeWizard P1 meter, an Alfen EV Charg
 ## Schematics
 ![Schema](/media/Schematic_Active-P1-DSMR-Switch_2025-04-20.png?raw=true "Schema")
 
-![EasyEda Schematic](/hardware/schematics/SCH_Active-P1-DSMR-Switch_2025-04-20.json?raw=false "EasyEda Schematic")
+![EasyEda Schematic](/hardware/schematics/SCH_Active-P1-DSMR-Switch_2025-04-20.json? "EasyEda Schematic")
 
-![EasyEda PCB](/hardware/pcb/PCB_PCB_Smart-DSMR-Splitter_2025-04-20.json?raw=false "EasyEda PCB")
+![EasyEda PCB](/hardware/pcb/PCB_PCB_Smart-DSMR-Splitter_2025-04-20.json? "EasyEda PCB")
 
-## Several PCB images
+## PCB images
 ![PCB top](/media/PCB_top_view.png?raw=true "PCB top")
 
 ![PCB bottom](/media/PCB_bottom_view.png?raw=true "PCB bottom")
